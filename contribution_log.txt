@@ -1,1 +1,1 @@
-Commit on 2025-08-06T09:06:35Z: Update README with new benchmark results
+Commit on 2025-08-06T17:27:36Z: Improve logging and error handling
