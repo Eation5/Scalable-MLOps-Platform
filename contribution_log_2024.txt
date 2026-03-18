@@ -1,1 +1,1 @@
-Commit on 2024-12-12T19:37:44Z: Optimize data loading for training
+Commit on 2024-12-24T10:31:06Z: Update README with project goals
